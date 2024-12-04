@@ -120,5 +120,5 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  backdrop-filter: blur(0.9vw);
+  backdrop-filter: blur(0.2vw);
 }
