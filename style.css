@@ -65,7 +65,7 @@ ul {
 ul li {
   background: #f1f1f1;
   padding: 1vw;
-  margin-bottom: 0.5vw;
+  margin-bottom: 0.7vw;
   border-radius: 0.5vw;
 }
 
@@ -76,6 +76,7 @@ footer {
   background: #333;
   color: #fff;
   font-size: 0.9rem;
+  bottom: 0;
 }
 #skills > ul > li:hover {
   background: #4caf50;
@@ -96,7 +97,7 @@ footer {
   height: 5vw;
   width: 15vw;
   padding: 1vw 3vw;
-  border-radius: 0.5vw;
+  border-radius: 1vw;
   gap: 5vw;
   cursor: pointer;
   transition: all 0.5s ease;
