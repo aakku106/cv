@@ -87,15 +87,15 @@ footer {
   justify-content: space-between;
   align-items: center;
 }
-button {
+.g {
+  text-decoration: none;
   background: #4caf50;
   color: white;
   border: none;
   padding: 0.5vw 1vw;
-  height: 2.5vw;
-  width: 10vw;
-  padding: 0.5vw 1vw;
-  margin-left: 6.5vw;
+  height: 5vw;
+  width: 15vw;
+  padding: 1vw 3vw;
   border-radius: 0.5vw;
   gap: 5vw;
   cursor: pointer;
@@ -104,13 +104,5 @@ button {
   &:hover {
     color: #4caf50;
     background: #f1f1f1;
-  }
-  &:hover > a {
-    /* background: #f1f1f1; */
-    color: #4caf50;
-  }
-  a {
-    text-decoration: none;
-    color: white;
   }
 }
