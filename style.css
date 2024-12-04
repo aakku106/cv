@@ -87,6 +87,7 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
 }
 .g {
   text-decoration: none;
@@ -106,4 +107,12 @@ footer {
     color: #4caf50;
     background: #f1f1f1;
   }
+}
+body {
+  background: url(./12.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  backdrop-filter: blur(.2vw);
 }
