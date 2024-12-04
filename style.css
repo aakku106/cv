@@ -70,8 +70,8 @@ ul li {
 }
 
 footer {
-  position: absolute;
-  bottom: 0;
+  /* position: absolute; */
+  bottom: 0 !important;
   text-align: center;
   margin-top: 2vw;
   padding: 1vw;
