@@ -79,7 +79,7 @@ footer {
   bottom: 0;
 }
 #skills > ul > li {
-  background-color: rgb(214, 210, 201);
+  background-color: #f1f1f1;
 }
 #skills > ul > li:hover {
   background: #4caf50;
@@ -95,7 +95,7 @@ footer {
 .g {
   text-decoration: none;
   background: #4caf50;
-  color: white;
+  color: #f1f1f1;
   border: none;
   padding: 0.5vw 1vw;
   height: 5vw;
