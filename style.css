@@ -13,9 +13,6 @@ body {
   color: #333;
   background-color: #f1f1f1;
 }
-h2 {
-  /* border: 03px  !important; */
-}
 
 header {
   background: #4caf50;
@@ -114,11 +111,12 @@ footer {
     background: #f1f1f1;
   }
 }
-body {
-  /* background: url(./12.jpg); */
+/* body {
+  background: url(./12.jpg);
+  z-index: -3;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
   backdrop-filter: blur(0.2vw);
-}
+} */
