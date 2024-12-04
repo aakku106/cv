@@ -81,7 +81,7 @@ footer {
   width: 100vw;
 }
 #skills > ul > li {
-  background-color: #f1f1f1;
+  background-color: white;
 }
 #skills > ul > li:hover {
   background: #4caf50;
